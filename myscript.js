@@ -1,3 +1,4 @@
 let textArea = 'hello';
-alert('\u202E' + textArea);
+let text = ('\u202E' + textArea);
+document.write(text);
 
